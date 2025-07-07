@@ -1,4 +1,4 @@
-# Student Record Manager (Java Console App)
+Student Record Manager (Java Console App)
 
 This is a simple console-based Java project that helps manage student records. It demonstrates core Java concepts like:
 
@@ -7,20 +7,22 @@ This is a simple console-based Java project that helps manage student records. I
 - Menu-driven interaction using loops
 - Basic input/output using Scanner
 
-## 💡 Features
+Features:
 - Add new student (name, roll no, marks)
 - View all student records
 - Search student by roll number
 - Delete a student by roll number
 
-## 📁 Tech Used
+Tech Used:
 - Java
 - Scanner
 - Classes & Objects
 - ArrayList
 
-## 🧑‍💻 Developer
-Bunny (Polytechnic CSE, Galgotias)
+Developer:
+Lucky (Polytechnic CSE, Galgotias)
 
-## 🔗 Project Status
-✅ Working ✅ Tested ✅ Mobile-Friendly
+Project Status:
+- Working
+- Tested
+- Mobile-Friendly
